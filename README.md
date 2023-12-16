@@ -9,6 +9,6 @@
 ## Features
 
 1. Automates assignment of secret santa for as many participants you wish
-2. The executor of the program does not know the final assignment result
+2. The executor of the program does not know the final assignment result provided senders email id is not one of the participants 
 
    
